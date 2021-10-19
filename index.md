@@ -1,5 +1,5 @@
 # Welcome to my scam website takedown tracker!
-### This page aims to summarize how, when, and how many scam websites I've taken down.
+This page aims to summarize how, when, and how many scam websites I've taken down.
 
 # 2021
 ## October
