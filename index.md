@@ -17,4 +17,4 @@ I was messaged a [link](https://dlscocrd.com/QK8WQq9H67HYfs73) by a compromised 
 
 ##### 2021-10-23
 
-History once again repeats itself. A scammer DMs me on a hacked account, I report the website, the website gets taken down. [https://discordhalloween.com/gift/FA2Num8x1ZTc4QkslKNKs9lN](https://discordhalloween.com/gift/FA2Num8x1ZTc4QkslKNKs9lN) taken down by emailing their domain registration provider Namecheap within 2 hours. Gotta give props to those guys for their speed and ease of access!
+History once again repeats itself. A scammer DMs me on a hacked account, I report the website, the website gets taken down. [https://discordhalloween.com/gift/FA2Num8x1ZTc4QkslKNKs9lN](https://discordhalloween.com/gift/FA2Num8x1ZTc4QkslKNKs9lN) taken down within 2 hours from emailing their domain registration provider Namecheap. Gotta give props to those guys for their speed and ease of access!
