@@ -21,4 +21,4 @@ History once again repeats itself. A scammer DMs me on a hacked account, I repor
 
 ##### 2021-10-29
 
-Writing this on a Monday night in November 8, I forgot how I received the [link](https://dilscord.com/TGaw6KJtud8FOv9H), but I contacted the website's domain registration provider, and it was taken down after 2 days, which is alright, considering that the entire website was in Russian and even I had a hard time finding where to report these incidents. However, this was still a win in my books. Thanks, Tatiana Agafonova!
+Writing this on a Monday night on November the 8th, I forgot how I received the [link](https://dilscord.com/TGaw6KJtud8FOv9H), but I contacted the website's domain registration provider, and it was taken down after 2 days, which is alright, considering that the entire website was in Russian and even I had a hard time finding where to report these incidents. However, this was still a win in my books. Thanks, Tatiana Agafonova!
